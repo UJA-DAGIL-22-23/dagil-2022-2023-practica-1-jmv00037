@@ -16,3 +16,6 @@ Estudiante de Ingeniería Informática de la Universidad de Jaén.
 
 ### Tablero Tello Inicial
 <img src='/tablero_inicial.png' width='200px'>
+
+### Pag inicio GitHub
+<img src='/github.png' width='200px'>
