@@ -13,3 +13,6 @@ Estudiante de Ingeniería Informática de la Universidad de Jaén.
 * **Web**:
 * **GitHub**: https://github.com/jmv00037
 * **Trello**: https://trello.com/invite/b/LXtmgKvC/ATTI1ccc72acb6ebc1a6292e948db6370a809FEF3DE6/desarrollo-agil-prac1
+
+### Tablero Tello Inicial
+<img src='/tablero_inicial.png' width='200px'>
