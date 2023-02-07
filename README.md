@@ -10,7 +10,6 @@ Tus tareas consisten en:
 
 Estudiante de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: jmv00037@red.ujaen.es
-* **Web**:
 * **GitHub**: https://github.com/jmv00037
 * **Trello**: https://trello.com/invite/b/LXtmgKvC/ATTI1ccc72acb6ebc1a6292e948db6370a809FEF3DE6/desarrollo-agil-prac1
 
