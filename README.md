@@ -8,8 +8,8 @@ Tus tareas consisten en:
 ### Jesús Morales Villegas
 <img src='/vrivas-2022.png' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
+Estudiante de Ingeniería Informática de la Universidad de Jaén.
+* **Correo**: jmv00037@red.ujaen.es
+* **Web**:
+* **GitHub**: https://github.com/jmv00037
 * **Trello**: https://trello.com/vrivas_ujaen_es
